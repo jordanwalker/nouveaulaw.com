@@ -1,0 +1,23 @@
+
+
+/* MAIN BG*/
+body, 
+h2.title span, h1.title span,
+ul.tabs li a.active{ 
+	background: #fdfdfd;
+	background: rgba(246,246,246,0.5) ;
+	background: white ;
+	position: relative;
+	z-index: 1;
+} 
+
+
+	
+/* FOOTER */
+#section-tophat{
+}
+
+
+/* SUBFOOTER */
+#section-sub-footer{
+}
